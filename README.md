@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fouad Khelil</h1>
-<h3 align="center"> UI/UX | Android Developer | Back-end developer | ML enthusiast </h3>
+
+
+<h3 align="left">  Android and Back-end developer | ML enthusiast | UI/UX Designer </h3>
+<a href="#"><img width="100%" height="auto" src="" height="175px"/></a>
 
 - 👋 Hi, I’m @Fouad-Khelil
 - 🌱 I’m currently learning Machine Learning
