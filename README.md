@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Fouad Khelil</h1>
+<h3 align="center"> UI/UX | Android Developer | AI enthusiast </h3>
+
 - 👋 Hi, I’m @Fouad-Khelil
 - 👀 I’m interested in all things related to technology
 - 🌱 I’m currently learning Machine Learning
