@@ -1,9 +1,8 @@
 
 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fouad Khelil</h1>
 <h3 align="left">  Android and Back-end developer | ML enthusiast | UI/UX Designer </h3>
-<a href="#"><img width="100%" height="auto" src="heading_img.png" height="175px"/></a>
 
-- 👋 Hi, I’m @Fouad-Khelil
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on arabic nlp research team 
 - 📫 How to reach me : kf_khelil@esi.dz
