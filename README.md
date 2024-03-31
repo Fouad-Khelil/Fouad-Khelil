@@ -8,7 +8,7 @@
 - 📫 How to reach me : kf_khelil@esi.dz
 - ⚡ Fun fact: A good programmer is a good poet
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/khelil-fouad-369a7021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="slimene-fellah-25950a224" height="30" width="40" /></a>
 </p>
