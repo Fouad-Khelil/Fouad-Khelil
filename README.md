@@ -1,7 +1,7 @@
 
 
 <h3 align="left">  Android and Back-end developer | ML enthusiast | UI/UX Designer </h3>
-<a href="#"><img width="100%" height="auto" src="my_image.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="heading_img.png" height="175px"/></a>
 
 - 👋 Hi, I’m @Fouad-Khelil
 - 🌱 I’m currently learning Machine Learning
