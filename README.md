@@ -6,7 +6,7 @@
 - 🌱 Building cool stuff 🚀
 - 💞️ I’m looking to collaborate on arabic nlp research team 
 - 📫 How to reach me : kf_khelil@esi.dz
-- ⚡ Fun fact: A good programmer is a good poet
+- ⚡ Fun fact: I automate things so future me can be lazy.
 
 <h3 align="left">You can connect with me on :</h3>
 <p align="left">
