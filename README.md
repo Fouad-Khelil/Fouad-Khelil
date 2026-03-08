@@ -1,9 +1,9 @@
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fouad Khelil</h1>
-<h3 align="left">  Android and Back-end developer | ML enthusiast | UI/UX Designer </h3>
+<h3 align="left"> Engineer | AI enthusiast | Mobile developer </h3>
 
-- 🌱 I’m currently strengthening my machine learning skills
+- 🌱 Building cool stuff 🚀
 - 💞️ I’m looking to collaborate on arabic nlp research team 
 - 📫 How to reach me : kf_khelil@esi.dz
 - ⚡ Fun fact: A good programmer is a good poet
