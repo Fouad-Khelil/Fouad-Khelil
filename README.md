@@ -6,7 +6,7 @@
 - 🌱 Building cool stuff 🚀
 - 💞️ I’m looking to collaborate on arabic nlp research team 
 - 📫 How to reach me : kf_khelil@esi.dz
-- ⚡ Fun fact: I automate things so future me can be lazy.
+- ⚡ Fun fact: the best engineers were also poets.
 
 <h3 align="left">You can connect with me on :</h3>
 <p align="left">
